@@ -61,7 +61,6 @@ Ebay | Compras en general | 5331
 El Palacio de Hierro | Compras en general | 5311
 Paypal | Compras en general | 5399
 Riot | Compras en general | 5399 | LoL RP
-Sanborns | Compras en general | 5311
 Suburbia | Compras en general | 5311
 Suempresa.com | Compras en general | 4816
 Temu | Compras en general | 7399
@@ -70,7 +69,7 @@ DHL | Delivery services | 4215
 Rappi | Delivery services | 4121
 Uber eats | Delivery services | 4215
 ||
-Sanborns (web) | Departamentales | 5311
+Sanborns | Departamentales | 5311
 Suburbia | Departamentales | 5311
 Sears | Departamentales | 5311 | Compra en fisico Hermosillo Galerias
 ||
@@ -86,6 +85,7 @@ Xbox | Electrónicos | ? | En línea
 Bitcodes.co | Electronics and software | 5816
 Cyberpuerta | Electronics and software | ?
 Google | Electronics and software | 7311
+Nintendo (eShop) | Electronics and software | ?
 Steam | Electronics and software | 5816
 WinCDKeys.com | Electronics and software | 5734
 ||
